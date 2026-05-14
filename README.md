@@ -5,11 +5,14 @@
 
 Una herramienta web para calcular sueldos netos, impuestos y prestaciones de ley en México de forma rápida y precisa.
 
+## 🔗 Demo en vivo
+Puedes probar la herramienta directamente aquí: [https://proyecciones.hbautista.com](https://proyecciones.hbautista.com)
+
 ## 🚀 Descripción
 Este proyecto permite a los usuarios (empleados, reclutadores o especialistas en RH) realizar proyecciones salariales detalladas. A diferencia de una calculadora simple, esta herramienta considera variables complejas como el tope de la UMA para el SBC, cálculos de fondo de ahorro y diferentes esquemas de contratación.
 
 <p align="center">
-  <img src="img/screenshoot.png" alt="Proyecciones Salariales MX Preview" width="800">
+  <img src="img/screenshot.png" alt="Proyecciones Salariales MX Preview" width="800">
 </p>
 
 ## ✨ Características
