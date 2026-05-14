@@ -1,5 +1,8 @@
 # Proyecciones Salariales México 💰
 
+![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![Estado: Activo](https://img.shields.io/badge/Estado-Activo-success)
+
 Una herramienta web para calcular sueldos netos, impuestos y prestaciones de ley en México de forma rápida y precisa.
 
 ## 🚀 Descripción
